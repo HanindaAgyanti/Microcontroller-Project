@@ -1,39 +1,27 @@
 
-<h1 align="center">
-  <br>
-  <img src="https://github.com/HanindaAgyanti/Microcontroller-Project/blob/main/pp_nyoman.jpg" alt="Markdownify" width="200">
-  <br>
+<h1 align="left">
   Audio Sistem Pengingat Penyiram Tanaman
-  <br>
+<img src="https://raw.githubusercontent.com/amitmerchant1990/electron-markdownify/master/app/img/markdownify.png" alt="Markdownify" width="200">
 </h1>
 
-<p align="center">
-  <a href="#daftar-isi">Daftar Isi</a> •
-  <a href="#how-to-use">How To Use</a> •
-  <a href="#download">Download</a> •
-  <a href="#credits">Credits</a> •
-  <a href="#related">Related</a> •
-  <a href="#license">License</a>
-</p>
-
-
+<br></br>
 ## Daftar Isi
-
-* Komponen
-* Electric
+* <a href="#deskripsi">Deskripsi</a>
+* <a href="#komponen">Komponen</a>
+* <a href="#electric">Electric</a>
   - Simulasi via Tinkercad
   - Schematic
   - PCB
-* 3D Design
+* <a href="#3d-design">3D Design</a>
   - Preview img
   - File
-* Program
+* <a href="#program">Program</a>
   - Flowchart
   - Arduino
   - Baremetal 
-* Cara kerja
+* <a href="#cara-kerja">Cara Kerja</a>
 
-## How To Use
+## Deskripsi
 
 To clone and run this application, you'll need [Git](https://git-scm.com) and [Node.js](https://nodejs.org/en/download/) (which comes with [npm](http://npmjs.com)) installed on your computer. From your command line:
 
@@ -55,15 +43,15 @@ $ npm start
 > If you're using Linux Bash for Windows, [see this guide](https://www.howtogeek.com/261575/how-to-run-graphical-linux-desktop-applications-from-windows-10s-bash-shell/) or use `node` from the command prompt.
 
 
-## Download
+## Komponen
 
 You can [download](https://github.com/amitmerchant1990/electron-markdownify/releases/tag/v1.2.0) the latest installable version of Markdownify for Windows, macOS and Linux.
 
-## Emailware
+## Electric
 
 Markdownify is an [emailware](https://en.wiktionary.org/wiki/emailware). Meaning, if you liked using this app or it has helped you in any way, I'd like you send me an email at <bullredeyes@gmail.com> about anything you'd want to say about this software. I'd really appreciate it!
 
-## Credits
+## 3D Design
 
 This software uses the following open source packages:
 
@@ -75,11 +63,11 @@ This software uses the following open source packages:
 - Emojis are taken from [here](https://github.com/arvida/emoji-cheat-sheet.com)
 - [highlight.js](https://highlightjs.org/)
 
-## Related
+## Program
 
 [markdownify-web](https://github.com/amitmerchant1990/markdownify-web) - Web version of Markdownify
 
-## Support
+## Cara Kerja
 
 <a href="https://www.buymeacoffee.com/5Zn8Xh3l9" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/purple_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
 
