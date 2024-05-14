@@ -1,8 +1,11 @@
 
 <h1 align="left">
   Audio Sistem Pengingat Penyiram Tanaman
-<img src="https://raw.githubusercontent.com/amitmerchant1990/electron-markdownify/master/app/img/markdownify.png" alt="Markdownify" width="200">
+<br></br>
 </h1>
+<div align="center">
+<img src="https://github.com/HanindaAgyanti/Microcontroller-Project/blob/main/pp_nyoman.jpg" alt="Markdownify" width="700">
+</div>
 
 <br></br>
 ## Daftar Isi
