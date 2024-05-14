@@ -1,14 +1,14 @@
 
 <h1 align="center">
   <br>
-  <img src="https://raw.githubusercontent.com/amitmerchant1990/electron-markdownify/master/app/img/markdownify.png" alt="Markdownify" width="200">
+  <img src="https://github.com/HanindaAgyanti/Microcontroller-Project/blob/main/pp_nyoman.jpg" alt="Markdownify" width="200">
   <br>
   Audio Sistem Pengingat Penyiram Tanaman
   <br>
 </h1>
 
 <p align="center">
-  <a href="#key-features">Key Features</a> •
+  <a href="#daftar-isi">Daftar Isi</a> •
   <a href="#how-to-use">How To Use</a> •
   <a href="#download">Download</a> •
   <a href="#credits">Credits</a> •
@@ -17,13 +17,16 @@
 </p>
 
 
-## Key Features
+## Daftar Isi
 
-* LivePreview - Make changes, See changes
-  - Instantly see what your Markdown documents look like in HTML as you create them.
-* Sync Scrolling
-  - While you type, LivePreview will automatically scroll to the current location you're editing.
-* GitHub Flavored Markdown  
+* Electric
+  - Simulasi via Tinkercad
+  - Schematic
+  - PCB
+* 3D Design
+  - Preview img
+  - File
+* Program  
 * Syntax highlighting
 * [KaTeX](https://khan.github.io/KaTeX/) Support
 * Dark/Light mode
