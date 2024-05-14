@@ -19,6 +19,7 @@
 
 ## Daftar Isi
 
+* Komponen
 * Electric
   - Simulasi via Tinkercad
   - Schematic
@@ -26,19 +27,11 @@
 * 3D Design
   - Preview img
   - File
-* Program  
-* Syntax highlighting
-* [KaTeX](https://khan.github.io/KaTeX/) Support
-* Dark/Light mode
-* Toolbar for basic Markdown formatting
-* Supports multiple cursors
-* Save the Markdown preview as PDF
-* Emoji support in preview :tada:
-* App will keep alive in tray for quick usage
-* Full screen mode
-  - Write distraction free.
-* Cross platform
-  - Windows, macOS and Linux ready.
+* Program
+  - Flowchart
+  - Arduino
+  - Baremetal 
+* Cara kerja
 
 ## How To Use
 
