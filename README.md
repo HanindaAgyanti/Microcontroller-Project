@@ -4,7 +4,7 @@
 <br></br>
 </h1>
 <div align="center">
-<img src="https://github.com/HanindaAgyanti/Microcontroller-Project/blob/main/pp_nyoman.jpg" alt="Markdownify" width="700">
+<img src="https://github.com/HanindaAgyanti/Microcontroller-Project/blob/main/pp_nyoman.jpg" width="700">
 </div>
 
 <br></br>
@@ -16,8 +16,8 @@
   - Schematic
   - PCB
 * <a href="#3d-design">3D Design</a>
-  - Preview img
-  - File
+  - <a href="#preview-img">Preview Img</a>
+  - <a href="">File</a>
 * <a href="#program">Program</a>
   - Flowchart
   - Arduino
@@ -55,16 +55,10 @@ You can [download](https://github.com/amitmerchant1990/electron-markdownify/rele
 Markdownify is an [emailware](https://en.wiktionary.org/wiki/emailware). Meaning, if you liked using this app or it has helped you in any way, I'd like you send me an email at <bullredeyes@gmail.com> about anything you'd want to say about this software. I'd really appreciate it!
 
 ## 3D Design
-
-This software uses the following open source packages:
-
-- [Electron](http://electron.atom.io/)
-- [Node.js](https://nodejs.org/)
-- [Marked - a markdown parser](https://github.com/chjj/marked)
-- [showdown](http://showdownjs.github.io/showdown/)
-- [CodeMirror](http://codemirror.net/)
-- Emojis are taken from [here](https://github.com/arvida/emoji-cheat-sheet.com)
-- [highlight.js](https://highlightjs.org/)
+### Preview Img
+<div align="center">
+<img src="https://github.com/HanindaAgyanti/Microcontroller-Project/blob/main/Audio%20Sistem%20Pengingat%20Penyiram%20Tanaman/3D%20Design/Screenshot%202024-05-14%20084048.png" width="700">
+</div>
 
 ## Program
 
