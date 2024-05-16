@@ -13,8 +13,8 @@
 * <a href="#komponen">Komponen</a>
 * <a href="#electric">Electric</a>
   - Simulasi via Tinkercad
-  - Schematic
-  - PCB
+  - <a href="#schematic">Schematic</a>
+  - <a href="#pcb">PCB</a>
 * <a href="#3d-design">3D Design</a>
   - <a href="#preview-img">Preview Img</a>
   - <a href="">File</a>
@@ -23,6 +23,7 @@
   - Arduino
   - Baremetal 
 * <a href="#cara-kerja">Cara Kerja</a>
+<br></br>
 
 ## Deskripsi
 
@@ -51,8 +52,15 @@ $ npm start
 You can [download](https://github.com/amitmerchant1990/electron-markdownify/releases/tag/v1.2.0) the latest installable version of Markdownify for Windows, macOS and Linux.
 
 ## Electric
+### Schematic
+<div align="center">
+	<img src="https://github.com/HanindaAgyanti/Microcontroller-Project/blob/main/Audio%20Sistem%20Pengingat%20Penyiram%20Tanaman/Schematic/Schematic%20PROJECT%20Akhir_page-0001.jpg" width="700">
+</div><br></br>
 
-Markdownify is an [emailware](https://en.wiktionary.org/wiki/emailware). Meaning, if you liked using this app or it has helped you in any way, I'd like you send me an email at <bullredeyes@gmail.com> about anything you'd want to say about this software. I'd really appreciate it!
+### PCB
+<div align="center">
+	<img src="https://github.com/HanindaAgyanti/Microcontroller-Project/blob/main/Audio%20Sistem%20Pengingat%20Penyiram%20Tanaman/Schematic/PCBPA_page-0001.jpg" width="700">
+</div><br></br>
 
 ## 3D Design
 ### Preview Img
