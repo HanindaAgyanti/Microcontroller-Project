@@ -49,20 +49,17 @@ Sebuah projek mata kuliah Workshop Mikrokontroler membuat Sistem Pendeteksi Peny
 
 ## Electric
 ### Schematic
-<div align="center">
-	<img src="https://github.com/HanindaAgyanti/Microcontroller-Project/blob/main/Audio%20Sistem%20Pengingat%20Penyiram%20Tanaman/Schematic/Schematic%20PROJECT%20Akhir_page-0001.jpg" width="700">
-</div><br></br>
+<img src="https://github.com/HanindaAgyanti/Microcontroller-Project/blob/main/Audio%20Sistem%20Pengingat%20Penyiram%20Tanaman/Schematic/Schematic%20PROJECT%20Akhir_page-0001.jpg" width="700">
+<br></br>
 
 ### PCB
-<div align="center">
-	<img src="https://github.com/HanindaAgyanti/Microcontroller-Project/blob/main/Audio%20Sistem%20Pengingat%20Penyiram%20Tanaman/Schematic/PCBPA_page-0001.jpg" width="700">
-</div><br></br>
+<img src="https://github.com/HanindaAgyanti/Microcontroller-Project/blob/main/Audio%20Sistem%20Pengingat%20Penyiram%20Tanaman/Schematic/PCBPA_page-0001.jpg" width="700">
+<br></br>
 
 ## 3D Design
 ### Preview Img
-<div align="center">
 <img src="https://github.com/HanindaAgyanti/Microcontroller-Project/blob/main/Audio%20Sistem%20Pengingat%20Penyiram%20Tanaman/3D%20Design/Screenshot%202024-05-14%20084048.png" width="700">
-</div>
+<br></br>
 
 ## Program
 ### Flowchart
@@ -77,4 +74,3 @@ Sebuah projek mata kuliah Workshop Mikrokontroler membuat Sistem Pendeteksi Peny
 
 ## Social Media
 > Youtube -[Haninda](http://www.youtube.com/@060_HanindaAgyantiF)
-
