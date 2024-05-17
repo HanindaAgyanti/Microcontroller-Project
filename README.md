@@ -74,4 +74,4 @@ Sebuah projek mata kuliah Workshop Mikrokontroler membuat Sistem Pendeteksi Peny
 
 
 ## Social Media
-> Youtube -[Haninda](http://www.youtube.com/@060_HanindaAgyantiF)
+> Youtube -[Haninda Agyanti](http://www.youtube.com/@060_HanindaAgyantiF)
