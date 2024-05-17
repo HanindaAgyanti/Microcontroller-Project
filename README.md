@@ -1,6 +1,6 @@
 
 <h1 align="left">
-  Audio Sistem Pengingat Penyiram Tanaman
+  Audio Sistem Pengingat Penyiram Tanaman <br>Workshop Mikrokontroler
 <br></br>
 </h1>
 <div align="center">
@@ -27,9 +27,9 @@
 <br></br>
 
 ## Deskripsi
-
-
-
+<div align="justify">
+Sebuah projek mata kuliah Workshop Mikrokontroler membuat Sistem Pendeteksi Penyiram Tanaman diharap mampu membantu masyarakat diberbagai kalangan usia untuk dapat menentukan waktu yang tempat dalam menyiram tanaman yang dapat dikontrol dengan sensor kelembapan. Dengan adanya project ini juga dapat mencapai lingkungan khususnya pada taman ataupun tanaman dapat lebih segar dan tidak layu. Project ini juga sangat bermanfaat bagi kalangan pertanian, perkebunan, serta perladangan.
+</div>
 
 ## Komponen
 
