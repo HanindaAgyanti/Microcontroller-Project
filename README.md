@@ -15,6 +15,7 @@
   - Simulasi via Tinkercad
   - <a href="#schematic">Schematic</a>
   - <a href="#pcb">PCB</a>
+  - <a href="#audio">audio</a>
 * <a href="#3d-design">3D Design</a>
   - <a href="#preview-img">Preview Img</a>
   - <a href="">File</a>
@@ -63,7 +64,7 @@ Sebuah projek mata kuliah Workshop Mikrokontroler membuat Sistem Pendeteksi Peny
 
 ## Program
 ### Flowchart
-
+<img src="https://github.com/HanindaAgyanti/Microcontroller-Project/blob/main/Audio%20Sistem%20Pengingat%20Penyiram%20Tanaman/Program/Flowchart.jpg" width="500"><br></br>
 
 ## Cara Kerja
 
