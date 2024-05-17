@@ -19,7 +19,7 @@
   - <a href="#preview-img">Preview Img</a>
   - <a href="">File</a>
 * <a href="#program">Program</a>
-  - Flowchart
+  - <a href="#flowchart">Flowchart</a>
   - Arduino
   - Baremetal 
 * <a href="#cara-kerja">Cara Kerja</a>
@@ -44,6 +44,9 @@ Sebuah projek mata kuliah Workshop Mikrokontroler membuat Sistem Pendeteksi Peny
 ### 4. Buck Boost Converter
 <img src="https://github.com/HanindaAgyanti/Microcontroller-Project/blob/main/Audio%20Sistem%20Pengingat%20Penyiram%20Tanaman/bahan-readme/71zYfhZLfrL.jpg" width="400"><br></br>
 
+### 5. Speaker 0.5W
+<img src="https://github.com/HanindaAgyanti/Microcontroller-Project/blob/main/Audio%20Sistem%20Pengingat%20Penyiram%20Tanaman/bahan-readme/WhatsApp%20Image%202024-05-17%20at%2016.39.24_a167ff00.jpg" width="400"><br></br>
+
 ## Electric
 ### Schematic
 <div align="center">
@@ -62,7 +65,7 @@ Sebuah projek mata kuliah Workshop Mikrokontroler membuat Sistem Pendeteksi Peny
 </div>
 
 ## Program
-
+### Flowchart
 
 
 ## Cara Kerja
