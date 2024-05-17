@@ -32,7 +32,7 @@ Sebuah projek mata kuliah Workshop Mikrokontroler membuat Sistem Pendeteksi Peny
 </div>
 
 ## Komponen
-
+1. 
 ## Electric
 ### Schematic
 <div align="center">
