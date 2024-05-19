@@ -4,7 +4,6 @@
 <br></br>
 </h1>
 
-<br></br>
 ## Daftar Isi
 * <a href="#deskripsi">Deskripsi</a>
 * <a href="#komponen">Komponen</a>
