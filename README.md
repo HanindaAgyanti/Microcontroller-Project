@@ -71,7 +71,32 @@ On progress...<br></br>
 <img src="https://github.com/HanindaAgyanti/Microcontroller-Project/blob/main/Audio%20Sistem%20Pengingat%20Penyiram%20Tanaman/Program/Flowchart.jpg" width="500"><br></br>
 
 ### Arduino Program
-On progress...
+<div align="justify">
+int sensorPin = A0;
+int buzzerPin = 6;
+int ledPin = 4;
+
+void setup() {
+  pinMode(sensorPin, INPUT);
+  pinMode(buzzerPin, OUTPUT);
+  pinMode(ledPin, OUTPUT);
+  Serial.begin(9600);
+}
+
+void loop() {
+  int value = analogRead(sensorPin);
+  Serial.println(value); // Menampilkan nilai kelembaban tanah di Serial Monitor
+  if (value <= 150) {
+    tone(buzzerPin, 200); // Menghasilkan suara pada buzzer
+    digitalWrite(ledPin, LOW); // LED mati
+    delay(1000); // Menunggu selama 1000 milidetik (1 detik)
+  } else {
+    noTone(buzzerPin); // Mematikan buzzer
+    digitalWrite(ledPin, HIGH); // LED menyala
+    delay(1000); // Menunggu selama 1000 milidetik (1 detik)
+  }
+}
+</div><br></br>
 
 ### AVR Program
 On progress...<br></br>
