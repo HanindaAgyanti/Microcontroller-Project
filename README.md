@@ -3,9 +3,6 @@
   Audio Sistem Pengingat Penyiram Tanaman <br>Workshop Mikrokontroler
 <br></br>
 </h1>
-<div align="center">
-<img src="https://github.com/HanindaAgyanti/Microcontroller-Project/blob/main/pp_nyoman.jpg" width="300">
-</div>
 
 <br></br>
 ## Daftar Isi
