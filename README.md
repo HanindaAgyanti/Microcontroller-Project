@@ -8,7 +8,7 @@
 * <a href="#deskripsi">Deskripsi</a>
 * <a href="#komponen">Komponen</a>
 * <a href="#electric">Electric</a>
-  - Simulasi via Tinkercad
+  - <a href="#simulasi-tinkercad">Simulasi Tinkercad</a>
   - <a href="#schematic">Schematic</a>
   - <a href="#pcb">PCB</a>
   - <a href="#audio">audio</a>
@@ -44,7 +44,11 @@ Sebuah projek mata kuliah Workshop Mikrokontroler membuat Sistem Pendeteksi Peny
 ### 5. Speaker 0.5W
 <img src="https://github.com/HanindaAgyanti/Microcontroller-Project/blob/main/Audio%20Sistem%20Pengingat%20Penyiram%20Tanaman/bahan-readme/WhatsApp%20Image%202024-05-17%20at%2016.39.24_a167ff00.jpg" width="400"><br></br>
 
+
 ## Electric
+### Simulasi Tinkercad
+<img src="https://github.com/HanindaAgyanti/Microcontroller-Project/blob/main/Audio%20Sistem%20Pengingat%20Penyiram%20Tanaman/Program/Simulasi%20Tinkercad.jpg" width ="700">
+
 ### Schematic
 <img src="https://github.com/HanindaAgyanti/Microcontroller-Project/blob/main/Audio%20Sistem%20Pengingat%20Penyiram%20Tanaman/Schematic/Schematic.png" width="700">
 <br></br>
@@ -56,6 +60,7 @@ Sebuah projek mata kuliah Workshop Mikrokontroler membuat Sistem Pendeteksi Peny
 #### Bottom Layer
 <img src="https://github.com/HanindaAgyanti/Microcontroller-Project/blob/main/Audio%20Sistem%20Pengingat%20Penyiram%20Tanaman/Schematic/Bottom%20Layer.png" width="700">
 <br></br>
+
 
 ## 3D Design
 ### Preview Img
