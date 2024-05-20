@@ -71,7 +71,7 @@ On progress...<br></br>
 <img src="https://github.com/HanindaAgyanti/Microcontroller-Project/blob/main/Audio%20Sistem%20Pengingat%20Penyiram%20Tanaman/Program/Flowchart.jpg" width="500"><br></br>
 
 ### Arduino Program
-<div align="justify">
+```aruino
 int sensorPin = A0;
 int buzzerPin = 6;
 int ledPin = 4;
@@ -96,7 +96,7 @@ void loop() {
     delay(1000); // Menunggu selama 1000 milidetik (1 detik)
   }
 }
-</div><br></br>
+```
 
 ### AVR Program
 On progress...<br></br>
