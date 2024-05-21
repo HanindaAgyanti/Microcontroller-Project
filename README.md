@@ -70,6 +70,7 @@ Clock Speed:
 ### 2. Soil Moisture Sensor
 <img src="https://github.com/HanindaAgyanti/Microcontroller-Project/blob/main/Audio%20Sistem%20Pengingat%20Penyiram%20Tanaman/bahan-readme/Sensor_Hygrometer_Detection_Humidity.jpg" width="400">
 <div align = "justify">
+  
 Sensor kelembaban tanah (soil moisture sensor) adalah alat yang digunakan untuk mengukur kadar air dalam tanah. Sensor ini sangat berguna dalam aplikasi seperti sistem irigasi otomatis, pemantauan kondisi tanaman, dan proyek-proyek agrikultur berbasis IoT (Internet of Things). Berikut adalah penjelasan lebih detail tentang cara kerja sensor kelembaban tanah, cara menghubungkannya ke Arduino Uno, dan contoh kode untuk menggunakannya.
 
 Cara Kerja Sensor Kelembaban Tanah
@@ -78,6 +79,9 @@ Sensor kelembaban tanah biasanya terdiri dari dua probe yang dimasukkan ke dalam
 
 ### 3. Amplifier PAM8403 
 <img src="https://github.com/HanindaAgyanti/Microcontroller-Project/blob/main/Audio%20Sistem%20Pengingat%20Penyiram%20Tanaman/bahan-readme/3649295_a3e90273-d1d2-495b-a6fd-0e51735fddb6_1080_1080.jpg" width="400">
+<div align = "justify">
+PAM8403 adalah amplifier audio kelas D yang sangat efisien dan sering digunakan dalam proyek DIY karena ukurannya yang kecil dan kemampuannya untuk menghasilkan output suara yang cukup keras dengan konsumsi daya yang rendah. PAM8403 dapat memberikan daya 3W per kanal pada beban 4 ohm dengan distorsi yang rendah, menjadikannya pilihan yang populer untuk speaker portabel dan perangkat audio lainnya.
+</div><br></br>
 
 ### 4. Buck Boost Converter
 <img src="https://github.com/HanindaAgyanti/Microcontroller-Project/blob/main/Audio%20Sistem%20Pengingat%20Penyiram%20Tanaman/bahan-readme/71zYfhZLfrL.jpg" width="400">
