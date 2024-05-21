@@ -58,7 +58,16 @@ Sebuah projek mata kuliah Workshop Mikrokontroler membuat Sistem Pendeteksi Peny
 <img src="https://github.com/HanindaAgyanti/Microcontroller-Project/blob/main/Audio%20Sistem%20Pengingat%20Penyiram%20Tanaman/Schematic/Bottom%20Layer.png" width="700">
 
 ### Audio
-On progress...<br></br>
+Cara mengkonversi audio menjadi bahasa C
+1. Membuka audacity
+2. Record suara
+3. Export -  other uncompressed files - 8000Hz - Raw (header-less) - Unsigned 8-bit PCM
+3. Import - Raw Data - File audacity
+4. Buka HxD
+5. File - Open - File Raw
+6. Export - C
+7. Masukkan program C ke program
+<br></br>
 
 ## 3D Design
 ### Preview Img
