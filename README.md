@@ -29,6 +29,45 @@ Sebuah projek mata kuliah Workshop Mikrokontroler membuat Sistem Pendeteksi Peny
 ## Komponen
 ### 1. Arduino Uno
 <img src="https://github.com/HanindaAgyanti/Microcontroller-Project/blob/main/Audio%20Sistem%20Pengingat%20Penyiram%20Tanaman/bahan-readme/nekhil-r-hz7EFrw06Qk-unsplash.jpg" width="400">
+<div align = "justify">
+```
+Arduino Uno adalah salah satu papan mikrokontroler paling populer dan mudah digunakan untuk pemula serta pengembang berpengalaman. Arduino Uno dirancang berdasarkan mikrokontroler ATmega328P dari Microchip. Berikut adalah penjelasan lebih rinci tentang Arduino Uno:
+
+Fitur Utama Arduino Uno
+Mikrokontroler:
+
+ATmega328P
+Tegangan Operasional:
+
+5V
+Tegangan Input (disarankan):
+
+7-12V
+Tegangan Input (batas):
+
+6-20V
+Pin Digital I/O:
+
+14 (termasuk 6 pin PWM)
+Pin Analog Input:
+
+6 (A0 hingga A5)
+Arus Maksimum per Pin I/O:
+
+40 mA
+Arus untuk Pin 3.3V:
+
+50 mA
+Memori:
+
+Flash Memory: 32 KB (0.5 KB digunakan oleh bootloader)
+SRAM: 2 KB
+EEPROM: 1 KB
+Clock Speed:
+
+16 MHz
+```
+</div><br></br>
 
 ### 2. Soil Humidity Sensor
 <img src="https://github.com/HanindaAgyanti/Microcontroller-Project/blob/main/Audio%20Sistem%20Pengingat%20Penyiram%20Tanaman/bahan-readme/Sensor_Hygrometer_Detection_Humidity.jpg" width="400">
