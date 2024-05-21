@@ -67,8 +67,14 @@ Clock Speed:
 16 MHz
 </div><br></br>
 
-### 2. Soil Humidity Sensor
+### 2. Soil Moisture Sensor
 <img src="https://github.com/HanindaAgyanti/Microcontroller-Project/blob/main/Audio%20Sistem%20Pengingat%20Penyiram%20Tanaman/bahan-readme/Sensor_Hygrometer_Detection_Humidity.jpg" width="400">
+<div align = "justify">
+Sensor kelembaban tanah (soil moisture sensor) adalah alat yang digunakan untuk mengukur kadar air dalam tanah. Sensor ini sangat berguna dalam aplikasi seperti sistem irigasi otomatis, pemantauan kondisi tanaman, dan proyek-proyek agrikultur berbasis IoT (Internet of Things). Berikut adalah penjelasan lebih detail tentang cara kerja sensor kelembaban tanah, cara menghubungkannya ke Arduino Uno, dan contoh kode untuk menggunakannya.
+
+Cara Kerja Sensor Kelembaban Tanah
+Sensor kelembaban tanah biasanya terdiri dari dua probe yang dimasukkan ke dalam tanah. Prinsip kerjanya adalah mengukur resistansi atau kapasitansi antara dua probe. Air dalam tanah akan mengurangi resistansi atau meningkatkan kapasitansi, sehingga semakin banyak air yang ada, semakin rendah resistansinya (atau semakin tinggi kapasitansinya). Nilai ini kemudian diubah menjadi sinyal analog yang dapat dibaca oleh mikrokontroler seperti Arduino.
+</div><br></br>
 
 ### 3. Amplifier PAM8403 
 <img src="https://github.com/HanindaAgyanti/Microcontroller-Project/blob/main/Audio%20Sistem%20Pengingat%20Penyiram%20Tanaman/bahan-readme/3649295_a3e90273-d1d2-495b-a6fd-0e51735fddb6_1080_1080.jpg" width="400">
