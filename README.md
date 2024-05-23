@@ -138,7 +138,7 @@ Cara mengkonversi audio menjadi bahasa C
 5. File - Open - File Raw
 6. Export - C
 7. Masukkan program C ke program
-<img src="https://" width="700">
+<img src=<"https://github.com/HanindaAgyanti/Microcontroller-Project/blob/main/Audio%20Sistem%20Pengingat%20Penyiram%20Tanaman/Audio/Progres%201.jpg width="700">
 <br></br>
 
 ## 3D Design
