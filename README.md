@@ -17,7 +17,6 @@
 * <a href="#program">Program</a>
   - <a href="#flowchart">Flowchart</a>
   - <a href="arduino-program">Arduino Program</a>
-  - <a href="avr-program">AVR Program</a> 
 * <a href="#social-media">Social Media</a>
 <br></br>
 
@@ -116,17 +115,17 @@ void loop() {
   }
 }
 ```
-
+<br>
 
 ### Schematic
-<img src="https://github.com/HanindaAgyanti/Microcontroller-Project/blob/main/Audio%20Sistem%20Pengingat%20Penyiram%20Tanaman/Schematic/Schematic.png" width="700"><b>
+<img src="https://github.com/HanindaAgyanti/Microcontroller-Project/blob/main/Audio%20Sistem%20Pengingat%20Penyiram%20Tanaman/Schematic/Schematic.png" width="700"><br></br>
 
 ### PCB
 #### Silkscreen
-<img src="https://github.com/HanindaAgyanti/Microcontroller-Project/blob/main/Audio%20Sistem%20Pengingat%20Penyiram%20Tanaman/Schematic/Silkscreen.png" width="700"><br>
+<img src="https://github.com/HanindaAgyanti/Microcontroller-Project/blob/main/Audio%20Sistem%20Pengingat%20Penyiram%20Tanaman/Schematic/Silkscreen.png" width="700"><br></br>
 
 #### Bottom Layer
-<img src="https://github.com/HanindaAgyanti/Microcontroller-Project/blob/main/Audio%20Sistem%20Pengingat%20Penyiram%20Tanaman/Schematic/Bottom%20Layer.png" width="700"><br>
+<img src="https://github.com/HanindaAgyanti/Microcontroller-Project/blob/main/Audio%20Sistem%20Pengingat%20Penyiram%20Tanaman/Schematic/Bottom%20Layer.png" width="700"><br></br>
 
 ### Audio
 <img src="https://github.com/HanindaAgyanti/Microcontroller-Project/blob/main/Audio%20Sistem%20Pengingat%20Penyiram%20Tanaman/Audio/Progres%201.jpg" width="700"><br>
@@ -140,7 +139,7 @@ Cara mengkonversi audio menjadi bahasa C
 6. Export - C
 7. Masukkan program C ke program
 
-Link <a href="https://www.youtube.com/watch?v=oBMv-TfjefU&ab_channel=055_FadilatulIlmiM">Tutorial Konversi Audio</a>
+Link <a href="https://www.youtube.com/watch?v=oBMv-TfjefU&ab_channel=055_FadilatulIlmiM">Tutorial Konversi Audio</a><br></br>
 
 ## 3D Design
 ### Preview Img
@@ -155,8 +154,6 @@ Link <a href="https://www.youtube.com/watch?v=oBMv-TfjefU&ab_channel=055_Fadilat
 
 ### Arduino Program
 
-### AVR Program
-On progress...<br></br>
 
 ## Social Media
 > Instagram [@ryan.carlsenn](https://www.instagram.com/ryan.carlsenn/)
