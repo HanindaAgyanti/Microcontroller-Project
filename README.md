@@ -1,6 +1,6 @@
 
 <h1 align="left">
-  Audio Sistem Pengingat Penyiraman Tanaman <br>Workshop Mikrokontroler
+  Audio Sistem Pengingat Penyiraman Tanaman
 <br></br>
 <img src="https://github.com/HanindaAgyanti/Microcontroller-Project/blob/main/Audio%20Sistem%20Pengingat%20Penyiram%20Tanaman/bahan-readme/AUDIO%20PENGINGAT%20PENYIRAM%20TANAMAN.png">
 </h1>
@@ -131,8 +131,8 @@ void loop() {
 
 ### Audio
 
-<img src="https://github.com/HanindaAgyanti/Microcontroller-Project/blob/main/Audio%20Sistem%20Pengingat%20Penyiram%20Tanaman/Audio/Progres%201.jpg" width="700">
 <img src="https://github.com/HanindaAgyanti/Microcontroller-Project/blob/main/Audio%20Sistem%20Pengingat%20Penyiram%20Tanaman/Audio/Progress%202.jpg" width="700">
+<img src="https://github.com/HanindaAgyanti/Microcontroller-Project/blob/main/Audio%20Sistem%20Pengingat%20Penyiram%20Tanaman/Audio/Progres%201.jpg" width="700">
 <img src="https://github.com/HanindaAgyanti/Microcontroller-Project/blob/main/Audio%20Sistem%20Pengingat%20Penyiram%20Tanaman/Audio/Progess%203.jpg" width="700">
 
 Cara mengkonversi audio menjadi bahasa C
