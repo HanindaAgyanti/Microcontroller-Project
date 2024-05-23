@@ -38,9 +38,6 @@ Mikrokontroler:
 ATmega328P
 Tegangan Operasional:
 
-5V
-Tegangan Input (disarankan):
-
 7-12V
 Tegangan Input (batas):
 
@@ -70,7 +67,7 @@ Clock Speed:
 ### 2. Soil Moisture Sensor
 <img src="https://github.com/HanindaAgyanti/Microcontroller-Project/blob/main/Audio%20Sistem%20Pengingat%20Penyiram%20Tanaman/bahan-readme/Sensor_Hygrometer_Detection_Humidity.jpg" width="400">
 <div align = "justify">
-  
+
 Sensor kelembaban tanah (soil moisture sensor) adalah alat yang digunakan untuk mengukur kadar air dalam tanah. Sensor ini sangat berguna dalam aplikasi seperti sistem irigasi otomatis, pemantauan kondisi tanaman, dan proyek-proyek agrikultur berbasis IoT (Internet of Things). Berikut adalah penjelasan lebih detail tentang cara kerja sensor kelembaban tanah, cara menghubungkannya ke Arduino Uno, dan contoh kode untuk menggunakannya.
 
 Cara Kerja Sensor Kelembaban Tanah
@@ -93,6 +90,7 @@ PAM8403 adalah amplifier audio kelas D yang sangat efisien dan sering digunakan 
 ## Electric
 ### Simulasi Tinkercad
 <img src="https://github.com/HanindaAgyanti/Microcontroller-Project/blob/main/Audio%20Sistem%20Pengingat%20Penyiram%20Tanaman/Simulasi%20Tinkercad/Simulasi%20Tinkercad.jpg" width ="700">
+Berikut link untuk video <a href="https://youtu.be/zXWUG3M2cDI?si=pBEXqCc-2VMQEvKt">Simulasi Tinkercad</a>
 
 ### Schematic
 <img src="https://github.com/HanindaAgyanti/Microcontroller-Project/blob/main/Audio%20Sistem%20Pengingat%20Penyiram%20Tanaman/Schematic/Schematic.png" width="700">
