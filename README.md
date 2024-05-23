@@ -157,4 +157,4 @@ Cara mengkonversi audio menjadi bahasa C
 On progress...<br></br>
 
 ## Social Media
-> Instagram -[@ryan.carlsenn](https://www.instagram.com/ryan.carlsenn/)
+> Instagram [@ryan.carlsenn](https://www.instagram.com/ryan.carlsenn/)
