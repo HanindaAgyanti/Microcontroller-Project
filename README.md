@@ -1,6 +1,6 @@
 
 <h1 align="left">
-  Audio Sistem Pengingat Penyiram Tanaman <br>Workshop Mikrokontroler
+  Audio Sistem Pengingat Penyiraman Tanaman <br>Workshop Mikrokontroler
 <br></br>
 </h1>
 
@@ -39,7 +39,7 @@ ATmega328P
 Tegangan Operasional:
 
 7-12V
-Tegangan Input (batas):
+Tegangan Input:
 
 6-20V
 Pin Digital I/O:
@@ -80,10 +80,7 @@ Sensor kelembaban tanah biasanya terdiri dari dua probe yang dimasukkan ke dalam
 PAM8403 adalah amplifier audio kelas D yang sangat efisien dan sering digunakan dalam proyek DIY karena ukurannya yang kecil dan kemampuannya untuk menghasilkan output suara yang cukup keras dengan konsumsi daya yang rendah. PAM8403 dapat memberikan daya 3W per kanal pada beban 4 ohm dengan distorsi yang rendah, menjadikannya pilihan yang populer untuk speaker portabel dan perangkat audio lainnya.
 </div><br></br>
 
-### 4. Buck Boost Converter
-<img src="https://github.com/HanindaAgyanti/Microcontroller-Project/blob/main/Audio%20Sistem%20Pengingat%20Penyiram%20Tanaman/bahan-readme/71zYfhZLfrL.jpg" width="400">
-
-### 5. Speaker 0.5W
+### 4. Speaker 0.5W
 <img src="https://github.com/HanindaAgyanti/Microcontroller-Project/blob/main/Audio%20Sistem%20Pengingat%20Penyiram%20Tanaman/bahan-readme/WhatsApp%20Image%202024-05-17%20at%2016.39.24_a167ff00.jpg" width="400"><br></br>
 
 
