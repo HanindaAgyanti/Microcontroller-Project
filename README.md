@@ -157,4 +157,4 @@ Cara mengkonversi audio menjadi bahasa C
 On progress...<br></br>
 
 ## Social Media
-> Youtube Channel -[Haninda Agyanti](http://www.youtube.com/@060_HanindaAgyantiF)
+> Instagram -[@ryan.carlsenn](https://www.instagram.com/ryan.carlsenn/)
