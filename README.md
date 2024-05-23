@@ -128,7 +128,11 @@ void loop() {
 <img src="https://github.com/HanindaAgyanti/Microcontroller-Project/blob/main/Audio%20Sistem%20Pengingat%20Penyiram%20Tanaman/Schematic/Bottom%20Layer.png" width="700"><br></br>
 
 ### Audio
-<img src="https://github.com/HanindaAgyanti/Microcontroller-Project/blob/main/Audio%20Sistem%20Pengingat%20Penyiram%20Tanaman/Audio/Progres%201.jpg" width="700"><br>
+
+<img src="https://github.com/HanindaAgyanti/Microcontroller-Project/blob/main/Audio%20Sistem%20Pengingat%20Penyiram%20Tanaman/Audio/Progres%201.jpg" width="700">
+<img src="https://github.com/HanindaAgyanti/Microcontroller-Project/blob/main/Audio%20Sistem%20Pengingat%20Penyiram%20Tanaman/Audio/Progress%202.jpg" width="700">
+<img src="https://github.com/HanindaAgyanti/Microcontroller-Project/blob/main/Audio%20Sistem%20Pengingat%20Penyiram%20Tanaman/Audio/Progess%203.jpg" width="700">
+
 Cara mengkonversi audio menjadi bahasa C
 1. Membuka audacity
 2. Record suara
@@ -151,6 +155,20 @@ Link <a href="https://www.youtube.com/watch?v=oBMv-TfjefU&ab_channel=055_Fadilat
 ## Program
 ### Flowchart
 <img src="https://github.com/HanindaAgyanti/Microcontroller-Project/blob/main/Audio%20Sistem%20Pengingat%20Penyiram%20Tanaman/Program/Flowchart.jpg" width="500"><br></br>
+
+Cara Kerja:
+1. Start (Mulai)
+2. Sistem diaktifkan dan memulai proses
+3. Inisialisasi Komponen. Pada tahap ini, semua komponen yang diperlukan seperti sensor kelembapan tanah, speaker, dan tombol reset diinisialisasi. Ini bisa melibatkan konfigurasi pin input/output dan inisialisasi modul ADC (Analog to Digital Converter) serta komunikasi serial jika diperlukan.
+4. Deteksi Kelembapan Tanah. Sistem membaca nilai kelembapan tanah dari sensor. Nilai ini diambil melalui ADC yang mengonversi sinyal analog dari sensor menjadi nilai digital yang bisa dibaca oleh mikrokontroler.
+5. IF Tanah Lembab (Jika Tanah Lembab) Nilai yang didapatkan dari sensor dibandingkan dengan ambang batas yang telah ditentukan. Jika nilai menunjukkan bahwa tanah lembab (misalnya nilai sensor lebih rendah dari ambang batas tertentu), maka proses berikutnya adalah menonaktifkan speaker.
+6. True (Benar) - Speaker OFF. Jika kondisi tanah lembab terpenuhi (kondisi benar), speaker akan dimatikan. Ini berarti tidak ada alarm atau indikasi suara yang dihasilkan karena tanah cukup lembab.
+7. False (Salah) - Speaker ON. Jika kondisi tanah tidak lembab (kondisi salah), speaker akan diaktifkan. Ini berarti sistem akan memberikan alarm atau indikasi suara untuk menandakan bahwa tanah tidak cukup lembab dan mungkin memerlukan penyiraman.
+8. Reset Button (Tombol Reset). Pada titik ini, pengguna dapat menekan tombol reset untuk menonaktifkan speaker meskipun kondisi tanah tidak lembab. Ini memungkinkan pengguna untuk secara manual mengatur ulang status alarm suara.
+9. Loop Kembali ke Deteksi Kelembapan Tanah. Setelah kondisi diperiksa dan aksi diambil, sistem kembali ke tahap deteksi kelembapan tanah untuk terus memonitor kondisi tanah.
+10. Stop (Berhenti)
+<br></br>
+
 
 ### Arduino Program
 
