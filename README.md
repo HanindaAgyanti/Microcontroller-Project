@@ -154,7 +154,7 @@ Link <a href="https://www.youtube.com/watch?v=oBMv-TfjefU&ab_channel=055_Fadilat
 
 ## Program
 ### Flowchart
-<img src="https://github.com/HanindaAgyanti/Microcontroller-Project/blob/main/Audio%20Sistem%20Pengingat%20Penyiram%20Tanaman/Program/Flowchart.jpg" width="500"><br></br>
+<img src="https://github.com/HanindaAgyanti/Microcontroller-Project/blob/main/Audio%20Sistem%20Pengingat%20Penyiram%20Tanaman/Program/Flowchart.jpg" width="500">
 
 Cara Kerja:
 1. Start (Mulai)
