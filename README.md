@@ -138,6 +138,7 @@ Cara mengkonversi audio menjadi bahasa C
 5. File - Open - File Raw
 6. Export - C
 7. Masukkan program C ke program
+<img src="https://" width="700">
 <br></br>
 
 ## 3D Design
