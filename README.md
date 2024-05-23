@@ -119,16 +119,17 @@ void loop() {
 
 
 ### Schematic
-<img src="https://github.com/HanindaAgyanti/Microcontroller-Project/blob/main/Audio%20Sistem%20Pengingat%20Penyiram%20Tanaman/Schematic/Schematic.png" width="700">
+<img src="https://github.com/HanindaAgyanti/Microcontroller-Project/blob/main/Audio%20Sistem%20Pengingat%20Penyiram%20Tanaman/Schematic/Schematic.png" width="700"><b>
 
 ### PCB
 #### Silkscreen
-<img src="https://github.com/HanindaAgyanti/Microcontroller-Project/blob/main/Audio%20Sistem%20Pengingat%20Penyiram%20Tanaman/Schematic/Silkscreen.png" width="700">
+<img src="https://github.com/HanindaAgyanti/Microcontroller-Project/blob/main/Audio%20Sistem%20Pengingat%20Penyiram%20Tanaman/Schematic/Silkscreen.png" width="700"><br>
 
 #### Bottom Layer
-<img src="https://github.com/HanindaAgyanti/Microcontroller-Project/blob/main/Audio%20Sistem%20Pengingat%20Penyiram%20Tanaman/Schematic/Bottom%20Layer.png" width="700">
+<img src="https://github.com/HanindaAgyanti/Microcontroller-Project/blob/main/Audio%20Sistem%20Pengingat%20Penyiram%20Tanaman/Schematic/Bottom%20Layer.png" width="700"><br>
 
 ### Audio
+<img src="https://github.com/HanindaAgyanti/Microcontroller-Project/blob/main/Audio%20Sistem%20Pengingat%20Penyiram%20Tanaman/Audio/Progres%201.jpg" width="700"><br>
 Cara mengkonversi audio menjadi bahasa C
 1. Membuka audacity
 2. Record suara
@@ -138,8 +139,8 @@ Cara mengkonversi audio menjadi bahasa C
 5. File - Open - File Raw
 6. Export - C
 7. Masukkan program C ke program
-<img src=<"https://github.com/HanindaAgyanti/Microcontroller-Project/blob/main/Audio%20Sistem%20Pengingat%20Penyiram%20Tanaman/Audio/Progres%201.jpg width="700">
-<br></br>
+
+Link <a href="https://www.youtube.com/watch?v=oBMv-TfjefU&ab_channel=055_FadilatulIlmiM">Tutorial Konversi Audio</a>
 
 ## 3D Design
 ### Preview Img
