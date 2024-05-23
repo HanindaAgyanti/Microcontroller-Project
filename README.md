@@ -87,7 +87,36 @@ PAM8403 adalah amplifier audio kelas D yang sangat efisien dan sering digunakan 
 ## Electric
 ### Simulasi Tinkercad
 <img src="https://github.com/HanindaAgyanti/Microcontroller-Project/blob/main/Audio%20Sistem%20Pengingat%20Penyiram%20Tanaman/Simulasi%20Tinkercad/Simulasi%20Tinkercad.jpg" width ="700">
-Berikut link untuk video <a href="https://youtu.be/zXWUG3M2cDI?si=pBEXqCc-2VMQEvKt">Simulasi Tinkercad</a>
+Berikut link untuk video <a href="https://youtu.be/MZAg9T-eXJ4">Simulasi Tinkercad</a><br>
+Program Simulasi Tinkercad:
+
+```aruino
+int sensorPin = A0;
+int buzzerPin = 6;
+int ledPin = 4;
+
+void setup() {
+  pinMode(sensorPin, INPUT);
+  pinMode(buzzerPin, OUTPUT);
+  pinMode(ledPin, OUTPUT);
+  Serial.begin(9600);
+}
+
+void loop() {
+  int value = analogRead(sensorPin);
+  Serial.println(value); // Menampilkan nilai kelembaban tanah di Serial Monitor
+  if (value <= 150) {
+    tone(buzzerPin, 200); // Menghasilkan suara pada buzzer
+    digitalWrite(ledPin, LOW); // LED mati
+    delay(1000); // Menunggu selama 1000 milidetik (1 detik)
+  } else {
+    noTone(buzzerPin); // Mematikan buzzer
+    digitalWrite(ledPin, HIGH); // LED menyala
+    delay(1000); // Menunggu selama 1000 milidetik (1 detik)
+  }
+}
+```
+
 
 ### Schematic
 <img src="https://github.com/HanindaAgyanti/Microcontroller-Project/blob/main/Audio%20Sistem%20Pengingat%20Penyiram%20Tanaman/Schematic/Schematic.png" width="700">
@@ -123,32 +152,6 @@ Cara mengkonversi audio menjadi bahasa C
 <img src="https://github.com/HanindaAgyanti/Microcontroller-Project/blob/main/Audio%20Sistem%20Pengingat%20Penyiram%20Tanaman/Program/Flowchart.jpg" width="500"><br></br>
 
 ### Arduino Program
-```aruino
-int sensorPin = A0;
-int buzzerPin = 6;
-int ledPin = 4;
-
-void setup() {
-  pinMode(sensorPin, INPUT);
-  pinMode(buzzerPin, OUTPUT);
-  pinMode(ledPin, OUTPUT);
-  Serial.begin(9600);
-}
-
-void loop() {
-  int value = analogRead(sensorPin);
-  Serial.println(value); // Menampilkan nilai kelembaban tanah di Serial Monitor
-  if (value <= 150) {
-    tone(buzzerPin, 200); // Menghasilkan suara pada buzzer
-    digitalWrite(ledPin, LOW); // LED mati
-    delay(1000); // Menunggu selama 1000 milidetik (1 detik)
-  } else {
-    noTone(buzzerPin); // Mematikan buzzer
-    digitalWrite(ledPin, HIGH); // LED menyala
-    delay(1000); // Menunggu selama 1000 milidetik (1 detik)
-  }
-}
-```
 
 ### AVR Program
 On progress...<br></br>
