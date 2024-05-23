@@ -17,6 +17,7 @@
 * <a href="#program">Program</a>
   - <a href="#flowchart">Flowchart</a>
   - <a href="arduino-program">Arduino Program</a>
+* <a href="#progress">Progress</a>
 * <a href="#social-media">Social Media</a>
 <br></br>
 
@@ -171,6 +172,8 @@ Cara Kerja:
 
 
 ### Arduino Program
+
+## Progress
 
 
 ## Social Media
