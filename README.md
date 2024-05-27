@@ -184,7 +184,7 @@ Cara Kerja:
 <img src="https://github.com/HanindaAgyanti/Microcontroller-Project/blob/main/Audio%20Sistem%20Pengingat%20Penyiram%20Tanaman/Progress/Bagian-bagian%20pada%20Shield%20PCB.jpg" width="700">
 
 ### 4. 3D
-<img src="https://github.com/HanindaAgyanti/Microcontroller-Project/tree/main/Audio%20Sistem%20Pengingat%20Penyiram%20Tanaman/Progress" width="700">
+<img src="https://github.com/HanindaAgyanti/Microcontroller-Project/blob/main/Audio%20Sistem%20Pengingat%20Penyiram%20Tanaman/Progress/Hasil%203D.jpg" width="700">
 
 ### 5. Input Progam
 <img src="https://github.com/HanindaAgyanti/Microcontroller-Project/blob/main/Audio%20Sistem%20Pengingat%20Penyiram%20Tanaman/Progress/Input%20Program.jpg" width="700"><br></br>
