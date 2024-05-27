@@ -188,7 +188,7 @@ Cara Kerja:
 
 ### 5. Input Progam
 <img src="https://github.com/HanindaAgyanti/Microcontroller-Project/blob/main/Audio%20Sistem%20Pengingat%20Penyiram%20Tanaman/Progress/Input%20Program.jpg" width="700">
-<img src="https://github.com/HanindaAgyanti/Microcontroller-Project/blob/main/Audio%20Sistem%20Pengingat%20Penyiram%20Tanaman/Progress/Program2.jpg" height="700"><br></br>
+<img src="https://github.com/HanindaAgyanti/Microcontroller-Project/blob/main/Audio%20Sistem%20Pengingat%20Penyiram%20Tanaman/Progress/Program2.jpg"  height="700"><br></br>
 
 ## Social Media
 > Instagram [@ryan.carlsenn](https://www.instagram.com/ryan.carlsenn/)
