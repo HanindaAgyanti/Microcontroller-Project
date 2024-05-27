@@ -1,4 +1,3 @@
-
 <h1 align="left">
   Audio Sistem Pengingat Penyiraman Tanaman
 <br></br>
@@ -175,7 +174,20 @@ Cara Kerja:
 ### Arduino Program
 
 ## Progress
+### 1. Hasil PCB
+<img src="https://github.com/HanindaAgyanti/Microcontroller-Project/blob/main/Audio%20Sistem%20Pengingat%20Penyiram%20Tanaman/Progress/Hasil%20PCB%20Jadi.jpg" width="700">
 
+### 2. Perakitan PCB
+<img src="https://github.com/HanindaAgyanti/Microcontroller-Project/blob/main/Audio%20Sistem%20Pengingat%20Penyiram%20Tanaman/Progress/Perakitan%20PCB.jpg" width="700">
+
+### 3. Pinout PCB
+<img src="https://github.com/HanindaAgyanti/Microcontroller-Project/blob/main/Audio%20Sistem%20Pengingat%20Penyiram%20Tanaman/Progress/Bagian-bagian%20pada%20Shield%20PCB.jpg" width="700">
+
+### 4. 3D
+<img src="https://github.com/HanindaAgyanti/Microcontroller-Project/tree/main/Audio%20Sistem%20Pengingat%20Penyiram%20Tanaman/Progress" width="700">
+
+### 5. Input Progam
+<img src="https://github.com/HanindaAgyanti/Microcontroller-Project/blob/main/Audio%20Sistem%20Pengingat%20Penyiram%20Tanaman/Progress/Input%20Program.jpg" width="700"><br></br>
 
 ## Social Media
 > Instagram [@ryan.carlsenn](https://www.instagram.com/ryan.carlsenn/)
