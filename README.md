@@ -175,19 +175,20 @@ Cara Kerja:
 
 ## Progress
 ### 1. Hasil PCB
-<img src="https://github.com/HanindaAgyanti/Microcontroller-Project/blob/main/Audio%20Sistem%20Pengingat%20Penyiram%20Tanaman/Progress/Hasil%20PCB%20Jadi.jpg" width="700">
+<img src="https://github.com/HanindaAgyanti/Microcontroller-Project/blob/main/Audio%20Sistem%20Pengingat%20Penyiram%20Tanaman/Progress/Hasil%20PCB%20Jadi.jpg" width="700"><br></br>
 
 ### 2. Perakitan PCB
-<img src="https://github.com/HanindaAgyanti/Microcontroller-Project/blob/main/Audio%20Sistem%20Pengingat%20Penyiram%20Tanaman/Progress/Perakitan%20PCB.jpg" width="700">
+<img src="https://github.com/HanindaAgyanti/Microcontroller-Project/blob/main/Audio%20Sistem%20Pengingat%20Penyiram%20Tanaman/Progress/Perakitan%20PCB.jpg" width="700"><br></br>
 
 ### 3. Pinout PCB
-<img src="https://github.com/HanindaAgyanti/Microcontroller-Project/blob/main/Audio%20Sistem%20Pengingat%20Penyiram%20Tanaman/Progress/Bagian-bagian%20pada%20Shield%20PCB.jpg" width="700">
+<img src="https://github.com/HanindaAgyanti/Microcontroller-Project/blob/main/Audio%20Sistem%20Pengingat%20Penyiram%20Tanaman/Progress/Bagian-bagian%20pada%20Shield%20PCB.jpg" height="700"><br></br>
 
 ### 4. 3D
-<img src="https://github.com/HanindaAgyanti/Microcontroller-Project/blob/main/Audio%20Sistem%20Pengingat%20Penyiram%20Tanaman/Progress/Hasil%203D.jpg" width="700">
+<img src="https://github.com/HanindaAgyanti/Microcontroller-Project/blob/main/Audio%20Sistem%20Pengingat%20Penyiram%20Tanaman/Progress/Hasil%203D.jpg" height="700"><br></br>
 
 ### 5. Input Progam
-<img src="https://github.com/HanindaAgyanti/Microcontroller-Project/blob/main/Audio%20Sistem%20Pengingat%20Penyiram%20Tanaman/Progress/Input%20Program.jpg" width="700"><br></br>
+<img src="https://github.com/HanindaAgyanti/Microcontroller-Project/blob/main/Audio%20Sistem%20Pengingat%20Penyiram%20Tanaman/Progress/Input%20Program.jpg" width="700">
+<img src="https://github.com/HanindaAgyanti/Microcontroller-Project/blob/main/Audio%20Sistem%20Pengingat%20Penyiram%20Tanaman/Progress/Program2.jpg" height="700"><br></br>
 
 ## Social Media
 > Instagram [@ryan.carlsenn](https://www.instagram.com/ryan.carlsenn/)
