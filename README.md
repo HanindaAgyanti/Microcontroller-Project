@@ -27,13 +27,19 @@ Sebuah projek mata kuliah Workshop Mikrokontroler membuat Sistem Pendeteksi Peny
 </div><br></br>
 
 ## Anggota Kelompok
-1. Rayzanta Ilham D   (2122500033)
-2. Fahrian M Rafli    (2122500038)
-3. Sholihatuz Zahro   (2122500049)
-4. Azam Zakariya      (2122500051)
-5. Fadilatul Ilmi M   (2122500055)
-6. Haninda Agyanti F  (2122500060)
-</div><br></br>
+### Rayzanta Ilham D (2122500033)<br> Jobdesk: 3D Design<br>
+   <img src="https://github.com/HanindaAgyanti/Microcontroller-Project/blob/main/Audio%20Sistem%20Pengingat%20Penyiram%20Tanaman/Anggota%20Kelompok/Rayzan.jpeg" width="300" /><br>
+### Fahrian M Rafli  (2122500038)<br> Jobdesk: Non-Tech<br>
+   <img src="https://github.com/HanindaAgyanti/Microcontroller-Project/blob/main/Audio%20Sistem%20Pengingat%20Penyiram%20Tanaman/Anggota%20Kelompok/Rian.jpeg" width="300" /><br>
+### Sholihatuz Zahro (2122500049)<br> Jobdesk: Program<br>
+   <img src="https://github.com/HanindaAgyanti/Microcontroller-Project/blob/main/Audio%20Sistem%20Pengingat%20Penyiram%20Tanaman/Anggota%20Kelompok/Iza.jpeg" width="300" /><br>
+### Azam Zakariya (2122500051)<br> Jobdesk: Electric<br>
+   <img src="https://github.com/HanindaAgyanti/Microcontroller-Project/blob/main/Audio%20Sistem%20Pengingat%20Penyiram%20Tanaman/Anggota%20Kelompok/Azam.jpeg" width="300" /><br>
+### Fadilatul Ilmi M (2122500055)<br> Jobdesk: Audio<br>
+   <img src="https://github.com/HanindaAgyanti/Microcontroller-Project/blob/main/Audio%20Sistem%20Pengingat%20Penyiram%20Tanaman/Anggota%20Kelompok/Ilmi.jpeg" width="300" /><br>
+### Haninda Agyanti F (2122500060)<br> Jobdesk: Ketua&Program<br>
+   <img src="https://github.com/HanindaAgyanti/Microcontroller-Project/blob/main/Audio%20Sistem%20Pengingat%20Penyiram%20Tanaman/Anggota%20Kelompok/Hanin.jpeg" width="300" />
+<br></br>
 
 ## Komponen
 ### 1. Arduino Uno
@@ -137,7 +143,8 @@ void loop() {
 <img src="https://github.com/HanindaAgyanti/Microcontroller-Project/blob/main/Audio%20Sistem%20Pengingat%20Penyiram%20Tanaman/Schematic/Silkscreen.png" width="700"><br></br>
 
 #### Bottom Layer
-<img src="https://github.com/HanindaAgyanti/Microcontroller-Project/blob/main/Audio%20Sistem%20Pengingat%20Penyiram%20Tanaman/Schematic/Bottom%20Layer.png" width="700"><br></br>
+<img src="https://github.com/HanindaAgyanti/Microcontroller-Project/blob/main/Audio%20Sistem%20Pengingat%20Penyiram%20Tanaman/Schematic/Bottom%20Layer.png" width="700">
+Link Tutorial Pembuatan Schematic <a href="https://www.youtube.com/watch?v=J_sLL8TUjsM">Tutorial PCB</a><br></br>
 
 ### Audio
 
@@ -155,7 +162,7 @@ Cara mengkonversi audio menjadi bahasa C
 6. Export - C
 7. Masukkan program C ke program
 
-Link <a href="https://www.youtube.com/watch?v=oBMv-TfjefU&ab_channel=055_FadilatulIlmiM">Tutorial Konversi Audio</a><br></br>
+Link Tutorial Youtube: <a href="https://www.youtube.com/watch?v=oBMv-TfjefU&ab_channel=055_FadilatulIlmiM">Tutorial Konversi Audio</a><br></br>
 
 ## 3D Design
 ### Preview Img
