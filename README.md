@@ -27,7 +27,6 @@ Sebuah projek mata kuliah Workshop Mikrokontroler membuat Sistem Pendeteksi Peny
 </div><br></br>
 
 ## Anggota Kelompok
-<div align="justify">
 1. Rayzanta Ilham D   (2122500033)
 2. Fahrian M Rafli    (2122500038)
 3. Sholihatuz Zahro   (2122500049)
