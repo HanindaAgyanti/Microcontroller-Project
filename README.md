@@ -26,6 +26,16 @@
 Sebuah projek mata kuliah Workshop Mikrokontroler membuat Sistem Pendeteksi Penyiram Tanaman diharap mampu membantu masyarakat diberbagai kalangan usia untuk dapat menentukan waktu yang tepat dalam menyiram tanaman yang dapat dikontrol dengan sensor kelembapan. Dengan adanya project ini juga dapat mencapai lingkungan khususnya pada taman ataupun tanaman dapat lebih segar dan tidak layu. Project ini juga sangat bermanfaat bagi kalangan pertanian, perkebunan, serta perladangan.
 </div><br></br>
 
+## Anggota Kelompok
+<div align="justify">
+1. Rayzanta Ilham D   (2122500033)
+2. Fahrian M Rafli    (2122500038)
+3. Sholihatuz Zahro   (2122500049)
+4. Azam Zakariya      (2122500051)
+5. Fadilatul Ilmi M   (2122500055)
+6. Haninda Agyanti F  (2122500060)
+</div><br></br>
+
 ## Komponen
 ### 1. Arduino Uno
 <img src="https://github.com/HanindaAgyanti/Microcontroller-Project/blob/main/Audio%20Sistem%20Pengingat%20Penyiram%20Tanaman/bahan-readme/nekhil-r-hz7EFrw06Qk-unsplash.jpg" width="400">
