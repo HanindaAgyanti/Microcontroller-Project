@@ -144,7 +144,7 @@ void loop() {
 
 #### Bottom Layer
 <img src="https://github.com/HanindaAgyanti/Microcontroller-Project/blob/main/Audio%20Sistem%20Pengingat%20Penyiram%20Tanaman/Schematic/Bottom%20Layer.png" width="700">
-Link Tutorial Pembuatan Schematic <a href="https://www.youtube.com/watch?v=J_sLL8TUjsM">Tutorial PCB</a><br></br>
+Link Tutorial Pembuatan Schematic: <a href="https://www.youtube.com/watch?v=J_sLL8TUjsM">Tutorial PCB</a><br></br>
 
 ### Audio
 
