@@ -1,7 +1,7 @@
 <h1 align="left">
   Audio Sistem Pengingat Penyiraman Tanaman
 <br></br>
-<img src="https://github.com/HanindaAgyanti/Microcontroller-Project/blob/main/Audio%20Sistem%20Pengingat%20Penyiram%20Tanaman/bahan-readme/AUDIO%20PENGINGAT%20PENYIRAM%20TANAMAN.png" width="700">
+<img src="https://github.com/HanindaAgyanti/Microcontroller-Project/blob/main/Audio%20Sistem%20Pengingat%20Penyiram%20Tanaman/bahan-readme/AUDIO%20PENGINGAT%20PENYIRAM%20TANAMAN.png">
 </h1>
 
 ## Daftar Isi
