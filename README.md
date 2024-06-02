@@ -18,12 +18,15 @@
   - <a href="#flowchart">Flowchart</a>
   - <a href="arduino-program">Arduino Program</a>
 * <a href="#progress">Progress</a>
-* <a href="#social-media">Social Media</a>
+* <a href="#contact-person">Contact Person</a>
 <br></br>
 
 ## Deskripsi
 <div align="justify">
 Sebuah projek mata kuliah Workshop Mikrokontroler membuat Sistem Pendeteksi Penyiram Tanaman diharap mampu membantu masyarakat diberbagai kalangan usia untuk dapat menentukan waktu yang tepat dalam menyiram tanaman yang dapat dikontrol dengan sensor kelembapan. Dengan adanya project ini juga dapat mencapai lingkungan khususnya pada taman ataupun tanaman dapat lebih segar dan tidak layu. Project ini juga sangat bermanfaat bagi kalangan pertanian, perkebunan, serta perladangan.
+<br></br>
+  
+`#Audio Sistem Pengingat Penyiraman Tanaman` `#Workshop Mikrokontroler` `#Teknik Elektronika` `#Politeknik Elektronika Negeri Surabaya`
 </div><br></br>
 
 ## Anggota Kelompok
@@ -166,9 +169,14 @@ Link Tutorial Youtube: <a href="https://www.youtube.com/watch?v=oBMv-TfjefU&ab_c
 
 ## 3D Design
 ### Preview Img
-<img src="https://github.com/HanindaAgyanti/Microcontroller-Project/blob/main/Audio%20Sistem%20Pengingat%20Penyiram%20Tanaman/3D%20Design/Progress1.png" width="700">
-<img src= "https://github.com/HanindaAgyanti/Microcontroller-Project/blob/main/Audio%20Sistem%20Pengingat%20Penyiram%20Tanaman/3D%20Design/progres%202-3.jpeg" width="700">
+<img src="https://github.com/HanindaAgyanti/Microcontroller-Project/blob/main/Audio%20Sistem%20Pengingat%20Penyiram%20Tanaman/3D%20Design/siram%20top.png" width="700">
+<img src= "https://github.com/HanindaAgyanti/Microcontroller-Project/blob/main/Audio%20Sistem%20Pengingat%20Penyiram%20Tanaman/3D%20Design/image.png" width="700">
 <br></br>
+
+### Preview Video
+
+https://github.com/HanindaAgyanti/Microcontroller-Project/blob/main/Audio%20Sistem%20Pengingat%20Penyiram%20Tanaman/3D%20Design/penyiraman%202_1.mp4
+
 
 
 ## Program
@@ -303,5 +311,5 @@ void initResetButton() {
 ### 6. Pengambilan Data
 <img src="https://github.com/HanindaAgyanti/Microcontroller-Project/blob/main/Audio%20Sistem%20Pengingat%20Penyiram%20Tanaman/Progress/Pengambilan%20data.jpeg" width="700"><br></br>
 
-## Social Media
+## Contact Person
 > Instagram [@ryan.carlsenn](https://www.instagram.com/ryan.carlsenn/)
