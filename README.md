@@ -176,9 +176,6 @@ Link Tutorial Youtube: <a href="https://www.youtube.com/watch?v=oBMv-TfjefU&ab_c
 
 ### Preview Video
 
-https://github.com/HanindaAgyanti/Microcontroller-Project/blob/main/Audio%20Sistem%20Pengingat%20Penyiram%20Tanaman/3D%20Design/penyiraman%202_1.mp4
-
-
 
 ## Program
 ### Flowchart
