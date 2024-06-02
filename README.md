@@ -176,7 +176,8 @@ Link Tutorial Youtube: <a href="https://www.youtube.com/watch?v=oBMv-TfjefU&ab_c
 
 ### Preview Video
 https://github.com/HanindaAgyanti/Microcontroller-Project/assets/50543100/187bb474-06c7-4d15-9010-6af74fe66d80
-Link Tutorial: <a href="https://youtu.be/PaVSHKxSr_M">Youtube</a>
+
+Link Tutorial: <a href="https://youtu.be/PaVSHKxSr_M">Youtube</a><br></br>
 
 ## Program
 ### Flowchart
