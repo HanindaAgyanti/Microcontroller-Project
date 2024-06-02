@@ -14,6 +14,7 @@
   - <a href="#audio">Audio</a>
 * <a href="#3d-design">3D Design</a>
   - <a href="#preview-img">Preview Img</a>
+  - <a href="#preview-video">Preview Video</a>
 * <a href="#program">Program</a>
   - <a href="#flowchart">Flowchart</a>
   - <a href="arduino-program">Arduino Program</a>
