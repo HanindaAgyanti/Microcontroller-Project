@@ -8,6 +8,7 @@
 * <a href="#deskripsi">Deskripsi</a>
 * <a href="#komponen">Komponen</a>
 * <a href="#electric">Electric</a>
+  - <a href="#blok-diagram">Blok Diagram</a>
   - <a href="#simulasi-tinkercad">Simulasi Tinkercad</a>
   - <a href="#schematic">Schematic</a>
   - <a href="#pcb">PCB</a>
@@ -104,7 +105,7 @@ PAM8403 adalah amplifier audio kelas D yang sangat efisien dan sering digunakan 
 
 ## Electric
 ### Blok Diagram
-<img src="https://github.com/HanindaAgyanti/Microcontroller-Project/blob/main/Audio%20Sistem%20Pengingat%20Penyiram%20Tanaman/Schematic/WhatsApp%20Image%202024-06-03%20at%2016.34.03_a8267e0b.jpg" width ="700">
+<img src="https://github.com/HanindaAgyanti/Microcontroller-Project/blob/main/Audio%20Sistem%20Pengingat%20Penyiram%20Tanaman/Schematic/WhatsApp%20Image%202024-06-03%20at%2016.34.03_a8267e0b.jpg" width ="700"><br></br>
 
 ### Simulasi Tinkercad
 <img src="https://github.com/HanindaAgyanti/Microcontroller-Project/blob/main/Audio%20Sistem%20Pengingat%20Penyiram%20Tanaman/Simulasi%20Tinkercad/Simulasi%20Tinkercad.jpg" width ="700">
@@ -139,7 +140,7 @@ void loop() {
   }
 }
 ```
-<br>
+<br></br>
 
 ### Schematic
 <img src="https://github.com/HanindaAgyanti/Microcontroller-Project/blob/main/Audio%20Sistem%20Pengingat%20Penyiram%20Tanaman/Schematic/Schematic.png" width="700"><br></br>
