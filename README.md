@@ -170,7 +170,12 @@ Link Tutorial Youtube: <a href="https://www.youtube.com/watch?v=oBMv-TfjefU&ab_c
 
 ## 3D Design
 ### Preview Img
+#### Top View
 <img src="https://github.com/HanindaAgyanti/Microcontroller-Project/blob/main/Audio%20Sistem%20Pengingat%20Penyiram%20Tanaman/3D%20Design/siram%20top.png" width="700">
+
+#### Bottom View
+<img src="https://github.com/HanindaAgyanti/Microcontroller-Project/blob/main/Audio%20Sistem%20Pengingat%20Penyiram%20Tanaman/3D%20Design/siram%20bottom.png" widt="700">
+
 <img src= "https://github.com/HanindaAgyanti/Microcontroller-Project/blob/main/Audio%20Sistem%20Pengingat%20Penyiram%20Tanaman/3D%20Design/image.png" width="700">
 <br></br>
 
