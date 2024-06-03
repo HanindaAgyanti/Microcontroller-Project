@@ -32,7 +32,7 @@ Sebuah projek mata kuliah Workshop Mikrokontroler membuat Sistem Pendeteksi Peny
 
 ## Anggota Kelompok
 ### Rayzanta Ilham D (2122500033)<br> Jobdesk: 3D Design<br>
-   <img src="https://github.com/HanindaAgyanti/Microcontroller-Project/blob/main/Audio%20Sistem%20Pengingat%20Penyiram%20Tanaman/Anggota%20Kelompok/Rayzan.jpeg" width="300" /><br>
+   <img src="https://github.com/HanindaAgyanti/Microcontroller-Project/blob/main/Audio%20Sistem%20Pengingat%20Penyiram%20Tanaman/Anggota%20Kelompok/WhatsApp%20Image%202024-06-03%20at%2017.38.42_86c28c49.jpg" width="300" /><br>
 ### Fahrian M Rafli  (2122500038)<br> Jobdesk: Non-Tech<br>
    <img src="https://github.com/HanindaAgyanti/Microcontroller-Project/blob/main/Audio%20Sistem%20Pengingat%20Penyiram%20Tanaman/Anggota%20Kelompok/Rian.jpeg" width="300" /><br>
 ### Sholihatuz Zahro (2122500049)<br> Jobdesk: Program<br>
