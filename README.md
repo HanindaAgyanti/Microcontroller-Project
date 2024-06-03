@@ -314,10 +314,12 @@ void initADC() {
 
 ### 5. Input Progam
 <img src="https://github.com/HanindaAgyanti/Microcontroller-Project/blob/main/Audio%20Sistem%20Pengingat%20Penyiram%20Tanaman/Progress/Input%20Program.jpg" width="700">
-<img src="https://github.com/HanindaAgyanti/Microcontroller-Project/blob/main/Audio%20Sistem%20Pengingat%20Penyiram%20Tanaman/Progress/Program2.jpg"  height="700"><br></br>
 
 ### 6. Pengambilan Data
 <img src="https://github.com/HanindaAgyanti/Microcontroller-Project/blob/main/Audio%20Sistem%20Pengingat%20Penyiram%20Tanaman/Progress/Pengambilan%20data.jpeg" width="700"><br></br>
+
+## Dokumentasi
+<img src="https://github.com/HanindaAgyanti/Microcontroller-Project/blob/main/Audio%20Sistem%20Pengingat%20Penyiram%20Tanaman/Progress/Program2.jpg"  height="700"><br></br>
 
 ## Contact Person
 > Instagram [@ryan.carlsenn](https://www.instagram.com/ryan.carlsenn/)
