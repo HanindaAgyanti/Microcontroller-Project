@@ -320,6 +320,8 @@ void initADC() {
 
 ## Dokumentasi
 <img src="https://github.com/HanindaAgyanti/Microcontroller-Project/blob/main/Audio%20Sistem%20Pengingat%20Penyiram%20Tanaman/Progress/Program2.jpg"  height="700"><br></br>
+<img src="https://github.com/HanindaAgyanti/Microcontroller-Project/blob/main/Audio%20Sistem%20Pengingat%20Penyiram%20Tanaman/Progress/foto1.jpg"  height="700"><br></br>
+<img src="https://github.com/HanindaAgyanti/Microcontroller-Project/blob/main/Audio%20Sistem%20Pengingat%20Penyiram%20Tanaman/Progress/foto2.jpg"  height="700"><br></br>
 
 ## Contact Person
 > Instagram [@ryan.carlsenn](https://www.instagram.com/ryan.carlsenn/)
