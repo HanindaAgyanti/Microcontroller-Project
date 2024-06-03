@@ -174,6 +174,10 @@ Cara mengkonversi audio menjadi bahasa C
 6. Export - C
 7. Masukkan program C ke program
 
+#### Preview Video
+
+https://github.com/HanindaAgyanti/Microcontroller-Project/assets/168505485/dc388206-23a1-4702-8ed6-65cfa78eb401
+
 Link Tutorial Youtube: <a href="https://www.youtube.com/watch?v=oBMv-TfjefU&ab_channel=055_FadilatulIlmiM">Tutorial Konversi Audio</a><br></br>
 
 ## 3D Design
