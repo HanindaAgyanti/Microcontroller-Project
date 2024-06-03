@@ -153,7 +153,9 @@ void loop() {
 <img src="https://github.com/HanindaAgyanti/Microcontroller-Project/blob/main/Audio%20Sistem%20Pengingat%20Penyiram%20Tanaman/Schematic/Bottom%20Layer.png" width="700">
 
 #### Preview Video
+
 https://github.com/HanindaAgyanti/Microcontroller-Project/assets/168505485/02a7e13c-888d-486f-8989-f1c24bdb3bce
+
 Link Tutorial Pembuatan Schematic: <a href="https://www.youtube.com/watch?v=J_sLL8TUjsM">Tutorial PCB</a><br></br>
 
 ### Audio
