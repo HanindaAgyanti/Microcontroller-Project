@@ -32,7 +32,7 @@ Sebuah projek mata kuliah Workshop Mikrokontroler membuat Sistem Pendeteksi Peny
 
 ## Anggota Kelompok
 ### Rayzanta Ilham D (2122500033)<br> Jobdesk: 3D Design<br>
-   <img src="https://github.com/HanindaAgyanti/Microcontroller-Project/blob/main/Audio%20Sistem%20Pengingat%20Penyiram%20Tanaman/Anggota%20Kelompok/WhatsApp%20Image%202024-06-03%20at%2017.38.42_86c28c49.jpg" width="300" /><br>
+   <img src="https://github.com/HanindaAgyanti/Microcontroller-Project/blob/main/Audio%20Sistem%20Pengingat%20Penyiram%20Tanaman/Anggota%20Kelompok/Rayza2.jpg" width="300" /><br>
 ### Fahrian M Rafli  (2122500038)<br> Jobdesk: Non-Tech<br>
    <img src="https://github.com/HanindaAgyanti/Microcontroller-Project/blob/main/Audio%20Sistem%20Pengingat%20Penyiram%20Tanaman/Anggota%20Kelompok/Rian.jpeg" width="300" /><br>
 ### Sholihatuz Zahro (2122500049)<br> Jobdesk: Program<br>
@@ -227,7 +227,7 @@ Cara Kerja:
 #include <avr/pgmspace.h>
 #include <avr/interrupt.h>
 #include <avr/sleep.h>
-#include "suara.h" // library terdapat di folder program
+#include "suara.h" // Include the header file with the audio data
 
 volatile bool play = false;
 volatile uint8_t track = 0;
@@ -236,26 +236,19 @@ volatile uint16_t count = 0;
 ISR(TIMER0_COMPA_vect) {
   if (play) {
     if (track == 0) {
-      OCR1A = pgm_read_byte(&suara[count]); // Play track 0
+      OCR1B = pgm_read_byte(&suara[count]); // Play track 0
       count++;
       if (count >= sizeof(suara)) {
         play = false;
-        OCR1A = 0;
+        OCR1B = 0;
       }
     }
   }
 }
 
-ISR(INT1_vect) {
-  // Reset button pressed
-  play = false;
-  OCR1A = 0; // Stop audio playback
-}
-
 void initPWM(void);
 void TimerInit(void);
 void initADC(void);
-void initResetButton(void);
 
 int main(void) {
   DDRD |= _BV(DDD6); // Set PD6 (OC0A/OC1A) as output for PWM
@@ -264,7 +257,6 @@ int main(void) {
   initPWM();
   TimerInit();
   initADC(); // Initialize ADC
-  initResetButton(); // Initialize reset button interrupt
 
   sei();
 
@@ -282,16 +274,16 @@ int main(void) {
       count = 0;
     } else if (soilMoisture <= 400) { // Adjust the wet threshold as needed
       play = false;
-      OCR1A = 0; // Stop audio playback
+      OCR1B = 0; // Stop audio playback
     }
   }
 }
 
 void initPWM() {
-  DDRB |= _BV(DDB2); // Set PB1 (OC1A) as output for PWM
-  TCCR1A = _BV(WGM10) | _BV(COM1A1); // Fast PWM, 8-bit
+  DDRB |= _BV(DDB2); // Set PB2 (OC1B) as output for PWM
+  TCCR1A = _BV(WGM10) | _BV(COM1B1); // Fast PWM, 8-bit
   TCCR1B = _BV(WGM12) | _BV(CS10);   // Fast PWM, no prescaler
-  OCR1A = 0; // Initialize PWM output to 0
+  OCR1B = 0; // Initialize PWM output to 0
 }
 
 void TimerInit() {
@@ -304,12 +296,6 @@ void TimerInit() {
 void initADC() {
   ADMUX = _BV(REFS0); // Select AVCC as voltage reference and set ADC0 as default input
   ADCSRA = _BV(ADEN) | _BV(ADPS2) | _BV(ADPS1) | _BV(ADPS0); // Enable ADC and set prescaler to 128
-}
-
-void initResetButton() {
-  EICRA |= _BV(ISC11); // Trigger INT1 on falling edge
-  EIMSK |= _BV(INT1);  // Enable INT1 interrupt
-  EIFR |= _BV(INTF1);  // Clear any pending INT1 interrupt
 }
 ```
 <br></br>
