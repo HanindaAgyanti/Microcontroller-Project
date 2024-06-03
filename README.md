@@ -106,6 +106,8 @@ PAM8403 adalah amplifier audio kelas D yang sangat efisien dan sering digunakan 
 ## Electric
 ### Blok Diagram
 <img src="https://github.com/HanindaAgyanti/Microcontroller-Project/blob/main/Audio%20Sistem%20Pengingat%20Penyiram%20Tanaman/Schematic/WhatsApp%20Image%202024-06-03%20at%2016.34.03_a8267e0b.jpg" width ="700"><br></br>
+<div align = "justify">
+Prinsip kerja dari audio system pengingat penyiram tanaman ini diulai dengan system pertama kali memakai sumber daya yang bersal dari baterai. Ketika sensor soil moisture mendeteksi apakah tanah lembab ( <400) maka audio tidak akan menyala (off) dan jika tanah mencapai nilai (>600) maka audio akan menyala (on). Untuk informasi audio ketika menyala memberi peringatan ketika tanah kering "Siram..Siram..Siram". Jika tanaman yang sudah di siram atau tidak kering makan audio sistem tidak akan menyalakan alarm ataupun pengingat.Amplifier digunakan untuk mengatur volume suara yang akan dikeluarkan audio.
 
 ### Simulasi Tinkercad
 <img src="https://github.com/HanindaAgyanti/Microcontroller-Project/blob/main/Audio%20Sistem%20Pengingat%20Penyiram%20Tanaman/Simulasi%20Tinkercad/Simulasi%20Tinkercad.jpg" width ="700">
