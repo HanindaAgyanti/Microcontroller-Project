@@ -104,6 +104,8 @@ PAM8403 adalah amplifier audio kelas D yang sangat efisien dan sering digunakan 
 
 
 ## Electric
+### Blok Diagram
+<img src="https://github.com/HanindaAgyanti/Microcontroller-Project/blob/main/Audio%20Sistem%20Pengingat%20Penyiram%20Tanaman/Schematic/WhatsApp%20Image%202024-06-03%20at%2016.34.03_a8267e0b.jpg" width ="700">
 ### Simulasi Tinkercad
 <img src="https://github.com/HanindaAgyanti/Microcontroller-Project/blob/main/Audio%20Sistem%20Pengingat%20Penyiram%20Tanaman/Simulasi%20Tinkercad/Simulasi%20Tinkercad.jpg" width ="700">
 Link Simulasi: <a href="https://www.tinkercad.com/things/e18MOugMR9O-cool-uusam-sango/editel?tenant=circuits">Tinkercad</a><br>
