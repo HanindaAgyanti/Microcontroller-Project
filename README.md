@@ -323,6 +323,9 @@ void initADC() {
 <img src="https://github.com/HanindaAgyanti/Microcontroller-Project/blob/main/Audio%20Sistem%20Pengingat%20Penyiram%20Tanaman/Progress/foto1.jpg"  width="700"><br></br>
 <img src="https://github.com/HanindaAgyanti/Microcontroller-Project/blob/main/Audio%20Sistem%20Pengingat%20Penyiram%20Tanaman/Progress/foto2.jpg"  width="700"><br></br>
 
+https://github.com/HanindaAgyanti/Microcontroller-Project/assets/168505485/8251bc53-0eb5-4819-916f-895ad86c14af
+
+
 ## Video Simulasi
 https://github.com/HanindaAgyanti/Microcontroller-Project/assets/168505485/e376ab55-6ebf-4a3b-9dbd-66905923db76
 
