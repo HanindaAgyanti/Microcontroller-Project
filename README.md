@@ -327,7 +327,7 @@ void initADC() {
 https://github.com/HanindaAgyanti/Microcontroller-Project/assets/168505485/e376ab55-6ebf-4a3b-9dbd-66905923db76
 
 
-Link Video: <a href="https://youtu.be/MZAg9T-eXJ4">Youtube</a>
+Link Video: <a href="https://youtu.be/01_OHSK8EwU?si=7nykVMJsQNBZ06yZ">Youtube</a>
 
 
 ## Contact Person
