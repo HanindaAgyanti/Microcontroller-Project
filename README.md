@@ -20,6 +20,7 @@
   - <a href="#flowchart">Flowchart</a>
   - <a href="arduino-program">Arduino Program</a>
 * <a href="#progress">Progress</a>
+* <a href="#iklan-produk">Iklan Produk</a>
 * <a href="#contact-person">Contact Person</a>
 <br></br>
 
@@ -329,9 +330,11 @@ https://github.com/HanindaAgyanti/Microcontroller-Project/assets/168505485/8251b
 ## Video Simulasi
 https://github.com/HanindaAgyanti/Microcontroller-Project/assets/168505485/e376ab55-6ebf-4a3b-9dbd-66905923db76
 
+Link Video: <a href="https://youtu.be/01_OHSK8EwU?si=7nykVMJsQNBZ06yZ">Youtube</a><br></br>
 
-Link Video: <a href="https://youtu.be/01_OHSK8EwU?si=7nykVMJsQNBZ06yZ">Youtube</a>
-
+## Iklan Produk
+https://github.com/HanindaAgyanti/Microcontroller-Project/issues/12#issue-2340723585
+<br></br>
 
 ## Contact Person
 > Instagram [@ryan.carlsenn](https://www.instagram.com/ryan.carlsenn/)
