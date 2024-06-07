@@ -326,14 +326,16 @@ void initADC() {
 
 https://github.com/HanindaAgyanti/Microcontroller-Project/assets/168505485/8251bc53-0eb5-4819-916f-895ad86c14af
 
-
+<br></br>
 ## Video Simulasi
 https://github.com/HanindaAgyanti/Microcontroller-Project/assets/168505485/e376ab55-6ebf-4a3b-9dbd-66905923db76
 
 Link Video: <a href="https://youtu.be/01_OHSK8EwU?si=7nykVMJsQNBZ06yZ">Youtube</a><br></br>
 
 ## Iklan Produk
-https://github.com/HanindaAgyanti/Microcontroller-Project/assets/50543100/c3cddbb7-f669-4a4b-a74f-acc15c8f6c0a
+
+https://github.com/HanindaAgyanti/Microcontroller-Project/assets/50543100/cd2beb3d-e490-4797-92b8-2a613e396048
+
 <br></br>
 
 ## Contact Person
