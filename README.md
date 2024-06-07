@@ -333,7 +333,7 @@ https://github.com/HanindaAgyanti/Microcontroller-Project/assets/168505485/e376a
 Link Video: <a href="https://youtu.be/01_OHSK8EwU?si=7nykVMJsQNBZ06yZ">Youtube</a><br></br>
 
 ## Iklan Produk
-https://github.com/HanindaAgyanti/Microcontroller-Project/issues/12#issue-2340723585
+https://github.com/HanindaAgyanti/Microcontroller-Project/assets/50543100/c3cddbb7-f669-4a4b-a74f-acc15c8f6c0a
 <br></br>
 
 ## Contact Person
