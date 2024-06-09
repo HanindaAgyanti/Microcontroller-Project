@@ -334,6 +334,7 @@ Link Video: <a href="https://youtu.be/01_OHSK8EwU?si=7nykVMJsQNBZ06yZ">Youtube</
 
 ## Iklan Produk
 
+<img src="https://github.com/HanindaAgyanti/Microcontroller-Project/blob/main/Audio%20Sistem%20Pengingat%20Penyiram%20Tanaman/Flyer.jpg"  height="700"><br></br>
 https://github.com/HanindaAgyanti/Microcontroller-Project/assets/50543100/cd2beb3d-e490-4797-92b8-2a613e396048
 
 <br></br>
